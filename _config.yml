@@ -32,7 +32,7 @@ sections:
     i18n: 'nav.research'
     name: 'Research'
     tpl: 'research.html'
-    css: 'testimonials navy-section'
+    css: 'navy-section'
 
   - id: 'blog'
     i18n: 'nav.blog'
@@ -44,7 +44,7 @@ sections:
     i18n: 'nav.sail4timmy'
     name: '#sail4timmy'
     tpl: 'sail4timmy.html'
-    css: 'contact navy-section'
+    css: 'testimonials navy-section'
 
 # blog img path
 img_path: 'static/img/blog'
