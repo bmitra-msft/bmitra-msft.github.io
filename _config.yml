@@ -15,17 +15,18 @@ author:
   last_name: 'Mitra'
   email: 'bmitra@microsoft.com'
   facebook_username: 'UnderdogGeek'
+  twitter_username: 'UnderdogGeek'
   github_username: 'bmitra-msft'
   head_img: 'static/img/landing/bmitra-clipper.jpg'
   desc: 'I am an Applied Scientist at Bing in Microsoft Cambridge. Also, currently pursuing a (part-time) doctorate at University College London. My research interests include representation learning and neural networks, and in particular their application to modern day information retrieval.'
 
 # sections
 sections:
-#  - id: 'about-me'
-#    i18n: 'nav.about_me'
-#    name: 'About'
-#    tpl: 'about.html'
-#    css: ''
+  - id: 'about-me'
+    i18n: 'nav.about_me'
+    name: 'About'
+    tpl: 'about.html'
+    css: ''
 
   - id: 'research'
     i18n: 'nav.research'
