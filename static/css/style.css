@@ -4377,7 +4377,7 @@ body.mini-navbar.fixed-sidebar .logo-element {
   margin-bottom: 20px;
 }
 .contact-box > a {
-  color: inherit;
+  color: #333333;
 }
 .contact-box.center-version {
   border: 1px solid #e7eaec;
