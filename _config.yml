@@ -21,11 +21,11 @@ author:
 
 # sections
 sections:
-  - id: 'about-me'
-    i18n: 'nav.about_me'
-    name: 'About'
-    tpl: 'about.html'
-    css: ''
+#  - id: 'about-me'
+#    i18n: 'nav.about_me'
+#    name: 'About'
+#    tpl: 'about.html'
+#    css: ''
 
   - id: 'research'
     i18n: 'nav.research'
