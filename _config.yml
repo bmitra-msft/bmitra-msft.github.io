@@ -25,7 +25,7 @@ sections:
   - id: 'about-me'
     i18n: 'nav.about_me'
     name: 'About'
-    tpl: 'testimonial about.html'
+    tpl: 'testimonials about.html'
     css: ''
 
   - id: 'research'
