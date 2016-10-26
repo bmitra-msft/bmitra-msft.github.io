@@ -28,18 +28,6 @@ sections:
     tpl: 'about.html'
     css: ''
 
-  - id: 'research'
-    i18n: 'nav.research'
-    name: 'Research'
-    tpl: 'research.html'
-    css: ''
-
-  - id: 'blog'
-    i18n: 'nav.blog'
-    name: 'Blog'
-    tpl: 'blog.html'
-    css: 'navy-section'
-
   - id: 'sail4timmy'
     i18n: 'nav.sail4timmy'
     name: '#sail4timmy'
