@@ -18,7 +18,7 @@ author:
   twitter_username: 'UnderdogGeek'
   github_username: 'bmitra-msft'
   head_img: 'static/img/landing/bmitra-clipper.jpg'
-  desc: 'I am a senior applied scientist at Bing in Microsoft Cambridge. Also, currently pursuing a (part-time) doctorate at University College London. My research interests include representation learning and neural networks, and in particular their application to modern day information retrieval.'
+  desc: 'I am a senior applied scientist at Bing in Microsoft (Cambridge, UK). Also, currently pursuing a (part-time) doctorate at University College London. My research interests include representation learning and neural networks, and in particular their application to modern day information retrieval.'
 
 # sections
 sections:
