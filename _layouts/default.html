@@ -10,8 +10,12 @@
 
 <body id="page-top" class="landing-page">
 
-	{% if page.title != 'index' %}
-	    {% include header.html %}
+	{% if page.title == 'sail4timmy' %}
+	    {% include s4theader.html %}
+    {% else %}
+        {% if page.title != 'index' %}
+            {% include header.html %}
+        {% endif %}
 	{% endif %}
 
     {{ content }}
