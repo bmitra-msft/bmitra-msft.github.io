@@ -1212,7 +1212,7 @@ button.dim:active:before {
 .pagination > .active > span:hover,
 .pagination > .active > a:focus,
 .pagination > .active > span:focus {
-  background-color: #f4f4f4;
+  background-color: 666666;
   border-color: #DDDDDD;
   color: inherit;
   cursor: default;
@@ -6855,7 +6855,7 @@ body.landing-page {
   padding: 20px 0;
 }
 .landing-page .gray-section {
-  background: #f4f4f4;
+  background: 666666;
   margin-top: 60px;
 }
 .landing-page .team-member {
@@ -6886,7 +6886,7 @@ body.landing-page {
 }
 .landing-page .pricing-plan.selected {
   transform: scale(1.1);
-  background: #f4f4f4;
+  background: 666666;
 }
 .landing-page .pricing-plan li {
   padding: 10px 16px;
