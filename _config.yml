@@ -27,23 +27,11 @@ sections:
     tpl: 'about.html'
     css: ''
 
-  - id: 'career'
-    i18n: 'nav.career'
-    name: 'Career'
-    tpl: 'career.html'
-    css: 'timeline'
-
-  - id: 'skills'
-    i18n: 'nav.skills'
-    name: 'Skills'
-    tpl: 'skills.html'
-    css: 'team'
-
-  - id: 'projects'
-    i18n: 'nav.projects'
-    name: 'Projects'
-    tpl: 'projects.html'
-    css: 'project'
+  - id: 'research'
+    i18n: 'nav.research'
+    name: 'Research'
+    tpl: 'research.html'
+    css: 'testimonials navy-section'
 
   - id: 'blog'
     i18n: 'nav.blog'
@@ -51,14 +39,14 @@ sections:
     tpl: 'blog.html'
     css: 'testimonials navy-section'
 
-  - id: 'links'
-    i18n: 'nav.link'
-    name: 'Links'
-    tpl: 'links.html'
-    css: 'contact'
+  - id: 'sail4timmy'
+    i18n: 'nav.sail4timmy'
+    name: '#sail4timmy'
+    tpl: 'sail4timmy.html'
+    css: 'testimonials navy-section'
 
 # blog img path
-img_path: 'http://www.jack003.com/static/img/blog'
+img_path: 'static/img/blog'
 
 # Build settings
 encoding: "utf-8"
