@@ -25,14 +25,14 @@ sections:
   - id: 'about-me'
     i18n: 'nav.about_me'
     name: 'About'
-    tpl: 'testimonials about.html'
+    tpl: 'about.html'
     css: ''
 
   - id: 'research'
     i18n: 'nav.research'
     name: 'Research'
     tpl: 'research.html'
-    css: 'navy-section'
+    css: 'testimonials navy-section'
 
   - id: 'blog'
     i18n: 'nav.blog'
