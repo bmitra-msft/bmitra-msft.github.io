@@ -6719,6 +6719,9 @@ body.landing-page {
 .landing-page .header-back.five {
   background: url('../img/landing/header_five.jpg') 50% 0 no-repeat;
 }
+.landing-page .header-back.six {
+  background: url('../img/landing/header_six.jpg') 50% 0 no-repeat;
+}
 .landing-page .carousel {
   height: 470px;
 }
