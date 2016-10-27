@@ -1644,12 +1644,12 @@ div.dt-button-info {
   line-height: 1.33;
 }
 .btn-circle.btn-xl {
-  width: 70px;
-  height: 70px;
-  padding: 10px 16px;
-  border-radius: 35px;
-  font-size: 24px;
-  line-height: 1.33;
+  width: 84px;
+  height: 84px;
+  padding: 12px 19px;
+  border-radius: 42px;
+  font-size: 25px;
+  line-height: 1.53;
 }
 .show-grid [class^="col-"] {
   padding-top: 10px;
