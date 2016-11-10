@@ -2,7 +2,7 @@
 layout: post
 title:  "This is not about Donald Trump"
 desc: "This is not about Donald Trump"
-keywords: "Donald, Trump, elections, USA, 2016"
+keywords: "Donald, Trump, elections, USA, 2016, BREXIT"
 date: 2016-11-10
 categories: [Politics]
 tags: [blog]
