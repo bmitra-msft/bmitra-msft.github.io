@@ -43,7 +43,7 @@ Trump did not win by chance. He won because of who he promised to be and what he
 
   
   
-#'They' did not do this
+# 'They' did not do this
 There is no 'them'. Repeat after me. There is no 'them'. You want a world free of divisive lines (race, gender, religion, and borders)? Then stop saying 'them'. Otherwise you are guilty of creating another divisive line. You can't have it both ways. 'They' will exist as long as you continue to isolate 'them' and make 'them' the bad guys.
 
 There may be a few bad people. Opportunistic scumbags. Politicians. Business men. But half of America isn't that. Half of Britain isn't that. The people who voted for Trump or BREXIT aren't bad people. They weren't born with hatred.
