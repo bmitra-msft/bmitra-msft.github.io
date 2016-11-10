@@ -23,8 +23,11 @@ Now I know what it feels to be on the wrong side of that quote. Stings doesn't i
 
 # This is not a failure of democracy
 After both BREXIT and Trump I read numerous posts on my social feeds speculating how democracy failed us all. I am paraphrasing but...
+
 > "Direct democracy is scary."
+> 
 > "The problem is with 'old voters' - young people have to suffer the consequences and their voices should be heard more."
+> 
 > "Imagine if only the educated could vote."
 
 
