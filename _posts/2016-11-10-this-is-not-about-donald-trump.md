@@ -13,6 +13,7 @@ I woke up yesterday morning in my rented London apartment in utter disbelief. An
 The news started to sink in. In the evening [this article](http://www.cracked.com/blog/6-reasons-trumps-rise-that-no-one-talks-about/), posted by my good friend Shiri, popped up on my Facebook feed. It felt like a hard slap on my face. A slap I deserved needed.
 
 > First they ignore you, then they laugh at you, then they fight you, then you win.
+> 
 > -Gandhi
 
 Now I know what it feels to be on the wrong side of that quote. Stings doesn't it?
