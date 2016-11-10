@@ -41,7 +41,9 @@ I am sorry to point out, you are not losing faith in democracy. You are losing f
 # It is not the Trump victory that I am worried about
 Trump did not win by chance. He won because of who he promised to be and what he promised to do. He may or may not have meant a word he said during his whole campaign. But that is not of consequence. The half of America who voted for him believes in those words and wants them to be true. That is what I am scared of. I am not scared of who Trump is and what he is capable of doing. I am scared of what the majority of people in his country want him to be and do.
 
-'They' did not do this
+  
+  
+#'They' did not do this
 There is no 'them'. Repeat after me. There is no 'them'. You want a world free of divisive lines (race, gender, religion, and borders)? Then stop saying 'them'. Otherwise you are guilty of creating another divisive line. You can't have it both ways. 'They' will exist as long as you continue to isolate 'them' and make 'them' the bad guys.
 
 There may be a few bad people. Opportunistic scumbags. Politicians. Business men. But half of America isn't that. Half of Britain isn't that. The people who voted for Trump or BREXIT aren't bad people. They weren't born with hatred.
