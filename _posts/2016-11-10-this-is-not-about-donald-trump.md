@@ -71,6 +71,6 @@ Today more than ever we need to remind ourselves what it means to be good and ki
 # We shall not just stand and watch
 Protest every wrong you witness. Stand tall. I wish I was in New York right now. In the streets. With all my friends that I have tremendous respect for who've taken the streets. This is not about over-ruling a democratically elected leader. This about letting him know that good women and men are watching his every move and we will not stand for hatred.
 
-Be mindful when you take the stand. Do not stand out of anger or despair. Stand out of love and humility. Don't be angry at the people who voted for Trump or BREXIT. Empathize. Love. Smile. Because it is when we all start to hate each other that the hate-mongers win. Don't let them win. Don't let them take away our smiles and kindness.
+Be mindful when you take the stand. Do not stand out of anger or despair. Stand out of love and humility. Don't be angry at the people who voted for Trump or BREXIT. Empathize. Love. Smile. Because it is when we all start to hate each other that the hate-mongers win. Don't let them win. Don't let them take away our smiles, kindness, and friendships.
 
 This ship has gone off course. Brace yourself and watch out for everyone around you. We are about to bring this ship back on course together.
