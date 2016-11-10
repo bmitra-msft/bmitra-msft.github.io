@@ -11,7 +11,7 @@ icon: fa-bookmark-o
 
 I woke up yesterday morning in my rented London apartment in utter disbelief. Angry and confused. Messages poured in over social media in massive waves. Eerily familiar emotions to the morning after Britain voted to leave. The tube ride to work, however, was quite the antithesis. You couldn't hear a whisper. No casual chit-chat. No anger. Just silence.
 
-The news started to sink in. In the evening [this article](http://www.cracked.com/blog/6-reasons-trumps-rise-that-no-one-talks-about/), posted by my good friend Shiri, popped up on my Facebook feed. It felt like a hard slap on my face. A slap I deserved needed.
+The news started to sink in. In the evening [this article](http://www.cracked.com/blog/6-reasons-trumps-rise-that-no-one-talks-about/), posted by my good friend Shiri, popped up on my Facebook feed. It felt like a hard slap on my face. A slap I ~~deserved~~ needed.
 
 > First they ignore you, then they laugh at you, then they fight you, then you win.
 > 
