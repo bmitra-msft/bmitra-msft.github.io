@@ -1,6 +1,6 @@
-Ôªø---
+---
 layout: post
-title:  "sail4timmy"
+title:  "Sail for Timmy"
 desc: "Crossing the Atlantic for Timmy Global Health"
 keywords: "sail4timmy, Clipper, ClipperRoundTheWorld, Timmy, Timmy Global Health, Atlantic Ocean, 2017"
 date: 2017-05-29
@@ -15,19 +15,19 @@ It was to be my first visit to South America. I found out about Timmy (Global He
 
 You expect these trips to be memorable. But it was something much more special. And so, I went back on the brigade again in 2013, 2014, and more recently in 2016.
 
-Each day on the brigade is long. You get on 3-4 open trucks, travel to a different remote village in the Amazon, and setup a day clinic for the patients. Vital check-ups, triage, doctor consultations, pharmacy ‚Äî if not for the simmering heat and the occasional appearance of curiously colourful spiders, it is easy to forget that you are often tens of miles or more away from proper medical facilities. Timmy conducts these medical brigades at every site at a regular rhythm to maintain continuity of care. And even though I've been on at most one brigade per year ‚Äî I could still see many familiar faces come back and sense the difference the organization was making in these people's lives.
+Each day on the brigade is long. You get on 3-4 open trucks, travel to a different remote village in the Amazon, and setup a day clinic for the patients. Vital check-ups, triage, doctor consultations, pharmacy ó if not for the simmering heat and the occasional appearance of curiously colourful spiders, it is easy to forget that you are often tens of miles or more away from proper medical facilities. Timmy conducts these medical brigades at every site at a regular rhythm to maintain continuity of care. And even though I've been on at most one brigade per year ó I could still see many familiar faces come back and sense the difference the organization was making in these people's lives.
 
 ![Timmy brigade in Ecuador](https://bmitra-msft.github.io/static/img/blog/sail4timmy-1.png =250x "Timmy brigade in Ecuador")
 
-Something that struck me the most was the kindness that I sensed in everyone around ‚Äî be it the patients, doctors, nurses, pharmacists, or volunteers. Whether it was someone in pain or giving care ‚Äî I always spotted a kind smile on everyone's face. The kids still laughed and were as mischievous as all kids should. Among these special people I truly felt an awesome sense of belonging ‚Äî thousands of miles out of my comfort zone. Some of these people I met on these trips have turned into familial bonds ‚Äî people I have visited in a different country and called up when I needed to talk to someone. These are special people and I am grateful for knowing them.
+Something that struck me the most was the kindness that I sensed in everyone around ó be it the patients, doctors, nurses, pharmacists, or volunteers. Whether it was someone in pain or giving care ó I always spotted a kind smile on everyone's face. The kids still laughed and were as mischievous as all kids should. Among these special people I truly felt an awesome sense of belonging ó thousands of miles out of my comfort zone. Some of these people I met on these trips have turned into familial bonds ó people I have visited in a different country and called up when I needed to talk to someone. These are special people and I am grateful for knowing them.
 
 But most of all Ecuador taught me courage. To step out of my comfort zone. I loved my comfort zone as much as the next person but that first trip in 2012 changed that a bit for me.
 
-Coincidentally, now in 2017 ‚Äî in less than three months from now ‚Äî I am about to embark on another adventure. I am going to be one of the crew aboard the ["Visit Seattle" boat](https://www.clipperroundtheworld.com/team/visit-seattle/crew) that will race against eleven other boats in the [Clipper race]( https://www.clipperroundtheworld.com/about/about-the-race) across the Atlantic Ocean from the United Kingdom (where I live now) to South America (port yet to be officially announced).
+Coincidentally, now in 2017 ó in less than three months from now ó I am about to embark on another adventure. I am going to be one of the crew aboard the ["Visit Seattle" boat](https://www.clipperroundtheworld.com/team/visit-seattle/crew) that will race against eleven other boats in the [Clipper race]( https://www.clipperroundtheworld.com/about/about-the-race) across the Atlantic Ocean from the United Kingdom (where I live now) to South America (port yet to be officially announced).
 
 ![Clipper race 2017](https://bmitra-msft.github.io/static/img/blog/sail4timmy-2.png =250x "Clipper race 2017")
 
-Deep down I truly believe that if I hadn't taken that first flight from Seattle to Quito in 2012, I wouldn't be taking part in this race. It is fair to say that life is full beautiful coincidences that I now get to represent the ‚ÄúVisit Seattle‚Äù crew to race towards South America.
+Deep down I truly believe that if I hadn't taken that first flight from Seattle to Quito in 2012, I wouldn't be taking part in this race. It is fair to say that life is full beautiful coincidences that I now get to represent the ìVisit Seattleî crew to race towards South America.
 
 As the smallest token of gratitude, it is only befitting that I should use this opportunity to raise awareness and support for Timmy's mission in the continent to make basic health care available to those who need it the most. I have setup a CrowdRise page which I sincerely encourage you to visit and make whatever small donation you can. 100% of all the money raised goes to [Timmy Global Health](http://timmyglobalhealth.org) (and NONE to fund my race).
 
