@@ -27,7 +27,7 @@ Something that struck me the most was the kindness that I sensed in everyone aro
 
 Coincidentally, now in 2017 — in less than three months from now — I am about to embark on another adventure. I am going to be one of the crew aboard the ["Visit Seattle" boat](https://www.clipperroundtheworld.com/team/visit-seattle/crew) that will race against eleven other boats in the [Clipper race]( https://www.clipperroundtheworld.com/about/about-the-race) across the Atlantic Ocean from the United Kingdom (where I live now) to South America (port yet to be officially announced).
 
-<img src="https://bmitra-msft.github.io/static/img/blog/sail4timmy-2.png" alt="Clipper race 2017" style="width: 300px;" align="middle"/>
+<img src="https://bmitra-msft.github.io/static/img/blog/sail4timmy-2.png" alt="Clipper race 2017" style="width: 500px;" align="middle"/>
 
 Deep down I truly believe that if I hadn't taken that first flight from Seattle to Quito in 2012, I wouldn't be taking part in this race. It is fair to say that life is full beautiful coincidences that I now get to represent the “Visit Seattle” crew to race towards South America. As the smallest token of gratitude, it is only befitting that I should use this opportunity to raise awareness and support for Timmy's mission in the continent to make basic health care available to those who need it the most. I have setup a [CrowdRise page](https://www.crowdrise.com/sail4timmy) which I sincerely encourage you to visit and make whatever small donation you can. 100% of all the money raised goes to [Timmy Global Health](http://timmyglobalhealth.org) (and NONE to fund my race).
 
