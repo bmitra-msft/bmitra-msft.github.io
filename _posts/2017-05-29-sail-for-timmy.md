@@ -9,7 +9,7 @@ tags: [blog]
 icon: fa-bookmark-o
 ---
 
-In November of 2012 I went as a general volunteer on my first medical brigade to Ecuador with [Timmy Global Health](http://timmyglobalhealth.org). Those days I lived in Bellevue, Washington. Across the lake from Seattle. It was to be my first visit to South America. I found out about Timmy (Global Health) from one of the posters that Andy (who works at Bing, same as me) puts up diligently every year in the different Microsoft offices to attract volunteers for the trip. I will confess the timing was particularly good for me because of certain personal reasons (crossroads and such, you know?). I was looking forward to taking some time off and get away. And so, I signed up. You expect these trips to be memorable. But it was something much more special. And so, I went back on the brigade again in 2013, 2014, and more recently in 2016.
+In November of 2012 I went as a general volunteer on my first medical brigade to Ecuador with [Timmy Global Health](http://timmyglobalhealth.org). Those days I lived in Bellevue, Washington. Across the lake from Seattle. It was to be my first visit to South America. I found out about Timmy (Global Health) from one of the posters that Andy (who works at [Bing](http://www.bing.com), [same as me](https://www.microsoft.com/en-us/research/people/bmitra/)) puts up diligently every year in the different [Microsoft](https://www.microsoft.com) offices to attract volunteers for the trip. I will confess the timing was particularly good for me because of certain personal reasons (crossroads and such). I was looking forward to taking some time off and get away. And so, I signed up. You expect these trips to be memorable. But it was something much more special. And so, I went back on the brigade again in 2013, 2014, and more recently in 2016.
 
 >
 > But it was something much more special. And so, I went back on the brigade again in 2013, 2014, and more recently in 2016.
@@ -37,12 +37,12 @@ Coincidentally, now in 2017 — in less than three months from now — I am abou
 <br/>&nbsp;
 </p>
 
-Deep down I truly believe that if I hadn't taken that first flight from Seattle to Quito in 2012, I wouldn't be taking part in this race. It is fair to say that life is full beautiful coincidences that I now get to represent the “Visit Seattle” crew to race towards South America. As the smallest token of gratitude, it is only befitting that I should use this opportunity to raise awareness and support for Timmy's mission in the continent to make basic health care available to those who need it the most. I have setup a [CrowdRise page](https://www.crowdrise.com/sail4timmy) which I sincerely encourage you to visit and make whatever small donation you can. 100% of all the money raised goes to [Timmy Global Health](http://timmyglobalhealth.org) (and NONE to fund my race).
+Deep down I truly believe that if I hadn't taken that first flight from Seattle to Quito in 2012, I wouldn't be taking part in this race. It is fair to say that life is full of beautiful coincidences that I now get to represent the “Visit Seattle” crew to race towards South America. It is only befitting that I use this opportunity to raise awareness and support for Timmy's mission in the continent to make basic health care available to those who need it the most. I have setup a [CrowdRise page](https://www.crowdrise.com/sail4timmy) which I sincerely encourage you to visit and make whatever small donation you can. 100% of all the money raised will go to [Timmy Global Health](http://timmyglobalhealth.org) directly (and NONE to fund my race).
 
 >
 > [https://www.crowdrise.com/sail4timmy](https://www.crowdrise.com/sail4timmy)
 >
 
-With that I look forward to those of you from my Ecuadorian family who are planning to come see me off at the race start in Liverpool, and the rest of you I hope to see again November this year in Ecuador.
+With that said, I look forward to those of you from my Ecuadorian family who are planning to come see me off at the race start in Liverpool. And the rest of you I hope to see again in November of this year in Ecuador.
 
 May the wind always fill your sails!
