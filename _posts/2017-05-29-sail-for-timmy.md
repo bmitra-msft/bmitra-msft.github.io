@@ -29,7 +29,7 @@ Something that struck me the most was the kindness that I sensed in everyone aro
 > These are special people and I am grateful for knowing them.
 >
 
-Coincidentally, now in 2017 — in less than three months from now — I am about to embark on another adventure. I am going to be one of the crew aboard the ["Visit Seattle" boat](https://www.clipperroundtheworld.com/team/visit-seattle/crew) that will race against eleven other boats in the [Clipper race]( https://www.clipperroundtheworld.com/about/about-the-race) across the Atlantic Ocean from the United Kingdom (where I live now) to South America (port yet to be officially announced).
+Coincidentally, now in 2017 — in less than three months from now — I am about to embark on another adventure. I am going to be one of the crew aboard the ["Visit Seattle" boat](https://www.clipperroundtheworld.com/team/visit-seattle/crew) that will race against eleven other boats in the [Clipper race]( https://www.clipperroundtheworld.com/about/about-the-race) across the Atlantic Ocean from the United Kingdom (where I live now) to Uruguay in South America.
 
 <p align="center">
 <br/>&nbsp;
