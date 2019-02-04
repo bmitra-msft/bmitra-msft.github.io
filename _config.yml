@@ -3,7 +3,7 @@
 # Website settings
 title: "Bhaskar Mitra"
 description: "Bhaskar's blog."
-keywords: "Bhaskar,Mitra,Microsoft,Information,Retrieval,Neural,Networks"
+keywords: "Bhaskar,Mitra,Microsoft,Information,Retrieval,Neural,Networks,Deep,Learning"
 baseurl: "/"
 url: "https://bmitra-msft.github.io"
 # url: "http://127.0.0.1:4000"
