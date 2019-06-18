@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hellow World"
-desc: "Hellow World"
+title:  "Hello World"
+desc: "Hello World"
 keywords: "hello,world"
 date: 2016-10-26
 categories: [NeuralNetworks]
