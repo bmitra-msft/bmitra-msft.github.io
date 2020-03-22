@@ -1,15 +1,13 @@
 ---
 layout: post
-title:  "Covid-19, your community, and you — a data science perspective (Swahili translation)"
-desc: "Covid-19, your community, and you — a data science perspective (Swahili translation)"
+title:  "কোভিড -১৯, আপনার সম্প্রদায় এবং আপনি - একটি ডেটা বিজ্ঞানের দৃষ্টিভঙ্গি"
+desc: "কোভিড -১৯, আপনার সম্প্রদায় এবং আপনি - একটি ডেটা বিজ্ঞানের দৃষ্টিভঙ্গি"
 keywords: ""
 date: 2020-03-22
 categories: [Personal]
 tags: [blog]
 icon: fa-bookmark-o
 ---
-
-# Covid-19, jamii yako, na wewe - mtazamo wa sayansi ya data
 
 
 Imeandikwa: 09 Mar 2020 by *Jeremy Howard and Rachel Thomas*
