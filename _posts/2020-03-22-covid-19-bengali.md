@@ -62,7 +62,7 @@ icon: fa-bookmark-o
 সংক্রামিত ব্যক্তির সংখ্যায় এই _এক্সপোনেনশিয়াল_ (অথবা সূচক) বৃদ্ধি বোঝা আমাদের মস্তিস্ক জন্য খুব কঠিন। সুতরাং আমাদের এটি বিজ্ঞান দিয়ে বিশ্লেষণ করতে হবে, আমাদের অনুভূতি দিয়ে নয়।
 
 <p align="center">
-  <img src="https://www.fast.ai/images/coronavirus/image2.png" width=50%>
+  <img src="https://www.fast.ai/images/coronavirus/image2.png" width="50%">
   <p align="center">এটি ২ সপ্তাহের মধ্যে কোথায় হবে? ২ মাসে?</p>
 </p>
 
@@ -123,7 +123,7 @@ icon: fa-bookmark-o
 এটি অত্যন্ত গুরুত্বপূর্ণ, কারণ যদি আমরা কোনও সম্প্রদায়ের সংক্রমণের হারকে কম করতে পারি, তবে আমরা সেই সম্প্রদায়ের হাসপাতালগুলিকে আরো বেশি সময়ে দিতে পারি যাতে তারা সংক্রামিত রোগীর এবং নিয়মিত রোগীর চিকিৎসার করতে পারে। এটিকে "বক্ররেখাকে সমতল করা" বা "ফ্ল্যাটেন দা কার্ভ" হিসাবে বর্ণনা করা হয়ে, এবং এই উদাহরণস্বরূপ চার্টে স্পষ্টভাবে দেখানো হয়েছে:
 
 <p align="center">
-  <img src="https://www.fast.ai/images/coronavirus/image3.jpeg" width=50%>
+  <img src="https://www.fast.ai/images/coronavirus/image3.jpeg" width="50%">
   <p align="center">বিন্দুযুক্ত লাইনের নীচে থাকা গুরুত্বপূর্ণ</p>
 </p>
 
@@ -141,7 +141,7 @@ icon: fa-bookmark-o
 এটি কেবল একটি অনুমানীয় পরিস্থিতি নয় - এটি ১৯১৮ এর ফ্লু মহামারীতেও স্পষ্টভাবে প্রদর্শিত হয়েছিল। মার্কিন যুক্তরাষ্ট্রে দুটি শহর মহামারী সম্পর্কে খুব আলাদা প্রতিক্রিয়া দেখিয়েছিল: ফিলাডেলফিয়া যুদ্ধের জন্য অর্থ সংগ্রহের জন্য ২ লক্ষ লোকের বিশাল কুচকাওয়াজ করেছিল। তবে সেন্ট লুইস সামাজিক যোগাযোগগুলিকে হ্রাস করতে সাবধানতার সাথে পরিকল্পনা করেছিল এবং সমস্ত বড় ঘটনা বাতিল করেছিল যাতে ভাইরাসের বিস্তার কমতে পারে। [ন্যাশনাল একাডেমি অফ সায়েন্সেসের প্রসিডিংস-এ](https://www.pnas.org/content/104/18/7582) দেখা যায়, এই দুই শহরে মৃত্যুর সংখ্যা:
 
 <p align="center">
-  <img src="https://www.fast.ai/images/coronavirus/image4.jpeg" width=50%>
+  <img src="https://www.fast.ai/images/coronavirus/image4.jpeg" width="50%">
   <p align="center">1918 ফ্লু মহামারী সম্পর্কিত পৃথক প্রতিক্রিয়ার প্রভাব</p> 
 </p>
 
@@ -154,7 +154,7 @@ icon: fa-bookmark-o
 মার্কিন ব্যুরো অফ লেবর স্ট্যাটিসটিক্স দেখায় যে সর্বনিম্ন আয়ের ব্যান্ডের [এক তৃতীয়াংশেরও](https://www.bls.gov/opub/ted/2018/higher-wage-workers-more-likely-than-lower-wage-workers-to-have-paid-leave-benefits-in-2018.htm) কম লোক অসুস্থ হলে ছুটি পাবার সুযোগ পায়ে:
 
 <p align="center">
-  <img src="https://www.fast.ai/images/coronavirus/image5.png" width=50%>
+  <img src="https://www.fast.ai/images/coronavirus/image5.png" width="50%">
   <p align="center">বেশিরভাগ দরিদ্র আমেরিকানদের অসুস্থতার জন্য ছুটি নেই, তাই কাজ যেতে হবে।</p>
 </p>
 
